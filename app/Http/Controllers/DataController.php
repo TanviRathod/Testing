@@ -11,7 +11,10 @@ class DataController extends Controller
      */
     public function index()
     {
-        //
+        //\
+
+
+        //changesss
 
         
     }
